@@ -1,6 +1,7 @@
+import { useState } from 'react'
 import React from "react";
-import "./styles.css";
-import UserCard from "./UserCard.js";
+import "./App.css";
+import UserCard from "./UserCard";
 
 const App = () => {
   const users = [
