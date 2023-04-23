@@ -6,11 +6,11 @@ import UserCard from "./UserCard";
 const Pagina1 = () => {
   const users = [
     {
-      name: "Maria Latifa",
-      title: "Desenvolvedora Senior",
-      description: "Desenvolvedor web com experiência em React e Node.js",
+      name: "Ana Bruck",
+      title: "\"Eu recomendo a letícia, pois o atendimento dela fez toda a diferença\"",
+      description: "\"A escolha de um imóvel, no nosso caso uma casa, não é uma tarefa fácil. A escolha de uma proffisonal qualificada poupou o nosso tempo e nos ajudou a encontrar o que realmente queríamos\"",
       photo:
-        "https://super.abril.com.br/wp-content/uploads/2021/07/SI_429_Oraculo_cachorrinho_FB.png"
+        "https://img.freepik.com/fotos-gratis/retrato-de-mulher-feliz-rindo_23-2148850676.jpg?w=2000"
     }
   ];
 
